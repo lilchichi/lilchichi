@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hola! 👋
 
-<!--
-**lilchichi/lilchichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently **slowly** working on building a [community chat app](https://github.com/lilchichi/Chat-Community-App)
+- 🌱 I’m currently learning the basics of javascript with [The Odin Project](https://www.theodinproject.com/)
+- 👍 I like the idea of decentralisation & hope we can move towards a world where people have more freedom/liberty and hopefully aren't restricted (as much) by those in power
+- ⚡ Fun fact: J'dore meme's
 
-Here are some ideas to get you started:
+![lilchichi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilchichi&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![alt text](https://i.kym-cdn.com/photos/images/newsfeed/002/229/278/29d)
+
+
