@@ -1,7 +1,8 @@
 ### Hola! 👋
 
 - 🔭 I’m currently **slowly** working on building a [community chat app](https://github.com/lilchichi/Chat-Community-App)
-- 🌱 I’m currently learning the basics of javascript with [The Odin Project](https://www.theodinproject.com/)
+- 🌱 Learning the basics of html, css & javascript with [the odin project](https://www.theodinproject.com/)
+- 📝 Writing basic explanations which referred to as [101's](https://github.com/lilchichi/101-s) of blockchain concepts, to re-enforce learning & maybe help other noobs be less nooby
 - 👍 I like the idea of decentralisation & hope we can move towards a world where people have more freedom/liberty and hopefully aren't restricted (as much) by those in power
 - ⚡ Fun fact: J'dore meme's
 
