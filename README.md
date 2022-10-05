@@ -6,7 +6,7 @@
 - 👍 I like the idea of decentralisation & hope we can move towards a world where people have more freedom/liberty and hopefully aren't restricted (as much) by those in power
 - ⚡ Fun fact: J'dore meme's
 
-![lilchichi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilchichi&show_icons=true&theme=radical)
+
 
 
 
